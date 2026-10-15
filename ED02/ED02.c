@@ -1,4 +1,4 @@
-/* Autora: Lavinia Franca da Silva
+/* Autora: Lavinia Franca da Silva*/
 
 #include <stdio.h>
 
