@@ -1,3 +1,5 @@
+/*Autora: Lavinia Franca da Silva */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
