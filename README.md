@@ -5,7 +5,6 @@ Repositório de estudos dirigidos e exercícios em linguagem C realizados durant
 Registrar atividades acadêmicas e praticar conceitos de programação, resolução de problemas, funções, vetores, matrizes, strings e arquivos.
 
 ## Organização
-- [`ED00/`](./ED00/): Exercícios introdutórios com funções auxiliares, arranjos, matrizes e métodos numerados.\n-
 - [`ED01/`](./ED01/): Exercícios de programação com métodos numerados, operações aritméticas e funções auxiliares.\n-
 - [`ED02/`](./ED02/): Exercícios de programação com métodos numerados e resolução de problemas usando C.\n-
 -  [`ED03/`](./ED03/): Exercícios com condições, caracteres, comparações e testes lógicos.\n-
