@@ -32,4 +32,4 @@ No Linux/macOS, execute com `./ED01`. No Windows, execute `ED01.exe` (ou o nome 
 Alguns exercícios incluem `io.h`, um arquivo auxiliar necessário à compilação; mantenha-o na mesma pasta do arquivo `.c`. Os exercícios que leem ou gravam arquivos de texto também podem depender dos arquivos `.TXT`/`.txt` presentes na pasta.
 
 ## Observação
-Este repositório reúne atividades de estudo. Leia o código e os comentários de cada exercício para compreender os requisitos específicos. Antes de publicar, confirme que o compartilhamento das soluções está de acordo com as orientações da disciplina.
+Este repositório reúne atividades de estudo. Leia o código e os comentários de cada exercício para compreender os requisitos específicos.
